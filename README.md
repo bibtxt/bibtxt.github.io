@@ -58,4 +58,4 @@ Send them along to the [wwwmake mailing list/forum](http://groups.google.com/gro
 
 <!-- todo: move footer to layouts -->
 
-Brought to you by [Manuscripts](https://github.com/manuscripts)
+Brought to you by [Manuscripts](https://github.com/manuscripts) and friends.
