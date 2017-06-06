@@ -1,4 +1,4 @@
-[Bib.TXT @ GitHub](https://github/bibtxt)
+[Bib.TXT @ GitHub](https://github.com/bibtxt)
 
 # Bib.TXT - Free Bibliographies in Text (Unicode) Format - BibTeX for the 21st Century - Books, Articles, & More
 
